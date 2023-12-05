@@ -237,6 +237,7 @@ Policy Management Tools enable organizations to define, enforce, and manage secu
 * **[Open Policy Agent](https://www.openpolicyagent.org/)** (Open Source): A general-purpose policy engine that unifies policy enforcement across the stack.
 * **[Kyverno](https://kyverno.io/)** (Open Source): A policy engine designed for Kubernetes, providing validation, mutation, and generation of configurations.
 * **[Cloud Custodian](https://cloudcustodian.io/)** (Open Source): A rules engine for managing public cloud accounts and resources.
+* **[Topaz](https://www.topaz.sh)** (Open Source): A cloud-native policy engine that supports OPA policies and graph-based authorization at the application level. 
 
 ## Service Mesh Tools
 
